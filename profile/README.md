@@ -1,9 +1,9 @@
 # FreeFEOS
 
 [![Pub Version](https://img.shields.io/pub/v/freefeos?include_prereleases&style=flat-square&logo=dart&logoColor=white&label=Pub&color=blue)](https://pub.dev/packages/freefeos)
-[![GitHub Repo stars](https://img.shields.io/github/stars/freefeos/freefeos?style=flat-square&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/freefeos/freefeos/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/freefeos/freefeos?style=flat-square&logo=github&logoColor=white&label=Forks&color=blue)](https://github.com/freefeos/freefeos/fork)
-[![GitHub License](https://img.shields.io/github/license/freefeos/freefeos?style=flat-square&logo=github&logoColor=white&label=License)](https://github.com/freefeos/freefeos/blob/master/LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/freefeos/freefeos_sdk?style=flat-square&logo=github&logoColor=white&label=Stars&color=blue)](https://github.com/freefeos/freefeos/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/freefeos/freefeos_sdk?style=flat-square&logo=github&logoColor=white&label=Forks&color=blue)](https://github.com/freefeos/freefeos/fork)
+[![GitHub License](https://img.shields.io/github/license/freefeos/freefeos_sdk?style=flat-square&logo=github&logoColor=white&label=License)](https://github.com/freefeos/freefeos/blob/master/LICENSE)
 [![FreeFEOS Project](https://img.shields.io/badge/Project-FreeFEOS-blue?style=flat-square&logo=flutter&logoColor=white)](https://github.com/freefeos/freefeos)
 
 ## 📢重要通知
